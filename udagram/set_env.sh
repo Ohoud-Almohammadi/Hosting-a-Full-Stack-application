@@ -8,6 +8,6 @@ export AWS_BUCKET=arn:aws:s3:::mybucket495892423351
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export JWT_SECRET=letsdoit
-export URL=http://localhost:8100
+export URL=http://mybucket495892423351.s3-website-us-east-1.amazonaws.com
 export AWS_ACCESS_KEY_ID=AKIAXG5L54K33ZVKZXUK
 export AWS_SECRET_ACCESS_KEY=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
