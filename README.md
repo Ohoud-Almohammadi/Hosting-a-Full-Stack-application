@@ -41,7 +41,8 @@ Provision the necessary AWS services needed for running the application:
 ## Running application
   [The app is accessible via the link here](http://mybucket495892423351.s3-website-us-east-1.amazonaws.com/)
   
-(https://github.com/Ohoud-Almohammadi/last/blob/master/documents/pictuers/working%20application.png)
+![working application](https://user-images.githubusercontent.com/114148856/210177255-42ca5a47-78f8-4145-bb41-f6f80f74ccf0.png)
+
 
 
 
