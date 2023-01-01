@@ -43,7 +43,7 @@ Provision the necessary AWS services needed for running the application:
   
 ![working application](https://user-images.githubusercontent.com/114148856/210177255-42ca5a47-78f8-4145-bb41-f6f80f74ccf0.png)
 
-## Backen link 
+## Backend link 
 (http://udagram-api-dev.eba-eu7epvnu.us-east-1.elasticbeanstalk.com/)
 
 
