@@ -40,7 +40,8 @@ Provision the necessary AWS services needed for running the application:
 
 ## Running application
   [The app is accessible via the link here](http://mybucket495892423351.s3-website-us-east-1.amazonaws.com/)
-[documents/pictuers/working application.png]
+  
+(documents/pictuers/working application.png)
 
 
 
