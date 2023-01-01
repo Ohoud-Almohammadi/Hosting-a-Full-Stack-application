@@ -55,7 +55,7 @@ Unit tests are using the Jasmine Framework.
 The e2e tests are using Protractor and Jasmine.
 
 ## Running application
-  [Acsses](http://mybucket495892423351.s3-website-us-east-1.amazonaws.com/)
+  [Access to the application here](http://mybucket495892423351.s3-website-us-east-1.amazonaws.com/)
 
 
 
