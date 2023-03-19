@@ -2,7 +2,7 @@
 
 ---
 
-In this project i developy a Full-Stack application  to a aws cloud service so that it is available to customers to register and login. 
+In this project i develop a Full-Stack application  to a aws cloud service so that it is available to customers to register and login. 
 
 
 # Udagram
